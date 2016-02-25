@@ -2,6 +2,7 @@ name: trotziklueger
 favicon: null
 layout_spectrum: 0.45379
 typography_spectrum: 0.74603
+title: about
 cta:
   domain: null
   bucket: null
