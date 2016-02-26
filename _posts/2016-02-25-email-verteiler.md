@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T22:34:06.006Z'
-dateModified: '2016-02-25T22:33:47.054Z'
-title: email verteiler
+datePublished: '2016-02-25T22:41:36.873Z'
+dateModified: '2016-02-25T22:36:49.728Z'
+title: Post von TK
 author: []
 sourcePath: _posts/2016-02-25-email-verteiler.md
 published: true
