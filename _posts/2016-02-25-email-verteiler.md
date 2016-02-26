@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T22:22:04.168Z'
-dateModified: '2016-02-25T22:21:04.279Z'
+datePublished: '2016-02-25T22:24:37.664Z'
+dateModified: '2016-02-25T22:22:09.165Z'
 title: email verteiler
 author: []
 sourcePath: _posts/2016-02-25-email-verteiler.md
