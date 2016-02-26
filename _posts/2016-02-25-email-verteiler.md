@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-25T22:41:36.873Z'
-dateModified: '2016-02-25T22:36:49.728Z'
+datePublished: '2016-02-25T22:46:06.315Z'
+dateModified: '2016-02-25T22:42:25.051Z'
 title: Post von TK
 author: []
 sourcePath: _posts/2016-02-25-email-verteiler.md
