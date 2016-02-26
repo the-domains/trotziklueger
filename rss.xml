@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[about]]></title>
-        <description><![CDATA[about]]></description>
+        <title><![CDATA[trotzi klüger]]></title>
+        <description><![CDATA[trotzi klüger]]></description>
         <link>https://thegrid.ai/trotziklueger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 12:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 21:50:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trotziklueger/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/300b6b0b-b749-4e19-8556-6a1349d7fe00.jpg">]]></description>
+            <title><![CDATA[über trotzi klüger ]]></title>
+            <description><![CDATA[<article><h1>über trotzi klüger </h1><p>Trotzi Klüger ist ein Berliner Musiker. Er wollte einmal Politiker werden und erlebte, dass "Politik machen" vor allem mit Machtkämpfen, Inszenierungen und zähen Kompromissen einhergeht. Seine Vision war und ist es, die Welt so zu erfassen wie sie ist und zu versuchen, auf Basis einer, wenn auch subjektiven, aber ehrlichen Beschreibung, sie zu positiv mit zu gestalten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c22bdbb9b8f37f718d3460cab35c2f585f36944.jpg"></article>]]></description>
             <link>https://thegrid.ai/trotziklueger/0602df48-2ef4-404b-8582-08b80c82d65f/index.html</link>
             <guid isPermaLink="false">0602df48-2ef4-404b-8582-08b80c82d65f</guid>
-            <pubDate>Thu, 25 Feb 2016 12:18:54 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 21:50:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
