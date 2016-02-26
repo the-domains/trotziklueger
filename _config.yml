@@ -1,7 +1,7 @@
 name: trotziklueger
 favicon: null
 layout_spectrum: 0.45379
-typography_spectrum: 0.74603
+typography_spectrum: 0.82308
 title: trotzi klüger
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#fff7e6'
     - '#82783f'
     - '#51582d'
-  brandStrength: 0.8125
+  brandStrength: 0.75
   lightness: 0.1875
-  saturation: 0.25
+  saturation: 0.125
   rhythmicContrast: 0.25
 purpose: []
