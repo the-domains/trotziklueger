@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T22:27:46.752Z'
-dateModified: '2016-02-25T22:25:12.816Z'
+datePublished: '2016-02-25T22:34:06.006Z'
+dateModified: '2016-02-25T22:33:47.054Z'
 title: email verteiler
 author: []
 sourcePath: _posts/2016-02-25-email-verteiler.md
