@@ -1,20 +1,4 @@
-name: trotziklueger
-favicon: null
-layout_spectrum: 0.45379
 typography_spectrum: 0.66395
-title: trotzi klueger
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.1875
   saturation: 0.125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.45379
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: trotziklueger
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: trotzi klueger
+description: ich komme mit friedlichen Absichten
 purpose: []
